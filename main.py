@@ -218,3 +218,4 @@ def main():
     run_tournament(fighters)
 
     print("\nСеанс завершено. NEXUS-CORE стабілізовано.\n")
+main()
